@@ -23,7 +23,6 @@ def find_column_widths(table):
                 max_widths[j] = temp_width
     return max_widths
 
-
 def reformat_items(table, widths):
     """Add white space so every string in column has same length."""
     for i in enumerate(table):
