@@ -1,4 +1,4 @@
-"""Does this count as the module docstring?"""
+"""Programming assignment from ch. 6 of 'Automate the Boring Stuff with Python'"""
 
 TABLE_DATA = [['apples', 'oranges', 'cherries', 'banana'],
               ['Alice', 'Bob', 'Carol', 'David'],
@@ -10,7 +10,6 @@ def print_table(table):
     table = reformat_items(table, column_widths)
     for i in table:
         print('  '.join(i))
-    return True
 
 def find_column_widths(table):
     """Identify the longest string length for each column."""
