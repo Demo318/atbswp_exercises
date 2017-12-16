@@ -1,10 +1,10 @@
-"""
-Fantasy game inventory exercise from 'Automate the Boring Stuff with Python' ch.5
-https://automatetheboringstuff.com/chapter5/
+#! /usr/bin/env python3
+# Fantasy game inventory exercise from 'Automate the Boring Stuff with Python' ch.5
+# https://automatetheboringstuff.com/chapter5/
 
-Create one function to display an inventory (stored as a dictionary, str:int pairs).
-Create another function to take a list and add to the player's inventory.
-"""
+# Create one function to display an inventory (stored as a dictionary, str:int pairs).
+# Create another function to take a list and add to the player's inventory.
+
 
 # Display items in player's inventory.
 # Single argument = dictionary of items.
