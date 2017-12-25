@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-# Fantasy game inventory exercise from 'Automate the Boring Stuff with Python' ch.5
+# Mad lib game in command line, from 'Automate the Boring Stuff with Python' ch8
 # https://automatetheboringstuff.com/chapter8/
 # written using Python 3.6.3
 
